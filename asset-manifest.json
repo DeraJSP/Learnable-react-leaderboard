@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/learnable-react-leaderboard/static/css/main.0b6d5b40.css",
-    "main.js": "/learnable-react-leaderboard/static/js/main.4c9598b5.js",
+    "main.css": "/learnable-react-leaderboard/static/css/main.26fc7c8a.css",
+    "main.js": "/learnable-react-leaderboard/static/js/main.93936fb8.js",
+    "static/media/1.jpg": "/learnable-react-leaderboard/static/media/1.bb83b6a1510b192ec613.jpg",
+    "static/media/9.jpg": "/learnable-react-leaderboard/static/media/9.b2c48849bb7f2fe84c74.jpg",
+    "static/media/5.jpg": "/learnable-react-leaderboard/static/media/5.82c7d045d2b9e1c113dd.jpg",
+    "static/media/3.jpg": "/learnable-react-leaderboard/static/media/3.f4b3698ca08efba6722f.jpg",
+    "static/media/7.jpg": "/learnable-react-leaderboard/static/media/7.4fad1b4971d59dc58897.jpg",
+    "static/media/6.jpg": "/learnable-react-leaderboard/static/media/6.df721c49f9a6fa9acd23.jpg",
+    "static/media/12.jpg": "/learnable-react-leaderboard/static/media/12.bb70857b78d8b8ebcc6a.jpg",
+    "static/media/2.jpg": "/learnable-react-leaderboard/static/media/2.66cdacc11e6e3894e7a5.jpg",
+    "static/media/11.jpg": "/learnable-react-leaderboard/static/media/11.c627c6f430ba0f701c17.jpg",
+    "static/media/10.jpg": "/learnable-react-leaderboard/static/media/10.1972886d7ac6b809db47.jpg",
+    "static/media/4.jpg": "/learnable-react-leaderboard/static/media/4.e2586225b998e0ca6dbd.jpg",
+    "static/media/8.jpg": "/learnable-react-leaderboard/static/media/8.5dec8303b64756c5d20e.jpg",
     "index.html": "/learnable-react-leaderboard/index.html",
-    "main.0b6d5b40.css.map": "/learnable-react-leaderboard/static/css/main.0b6d5b40.css.map",
-    "main.4c9598b5.js.map": "/learnable-react-leaderboard/static/js/main.4c9598b5.js.map"
+    "main.26fc7c8a.css.map": "/learnable-react-leaderboard/static/css/main.26fc7c8a.css.map",
+    "main.93936fb8.js.map": "/learnable-react-leaderboard/static/js/main.93936fb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b6d5b40.css",
-    "static/js/main.4c9598b5.js"
+    "static/css/main.26fc7c8a.css",
+    "static/js/main.93936fb8.js"
   ]
 }
