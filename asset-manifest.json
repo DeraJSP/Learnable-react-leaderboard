@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/learnable-react-leaderboard/static/js/main.610e3490.js",
+    "main.css": "/learnable-react-leaderboard/static/css/main.0b6d5b40.css",
+    "main.js": "/learnable-react-leaderboard/static/js/main.4c9598b5.js",
     "index.html": "/learnable-react-leaderboard/index.html",
-    "main.610e3490.js.map": "/learnable-react-leaderboard/static/js/main.610e3490.js.map"
+    "main.0b6d5b40.css.map": "/learnable-react-leaderboard/static/css/main.0b6d5b40.css.map",
+    "main.4c9598b5.js.map": "/learnable-react-leaderboard/static/js/main.4c9598b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.610e3490.js"
+    "static/css/main.0b6d5b40.css",
+    "static/js/main.4c9598b5.js"
   ]
 }
